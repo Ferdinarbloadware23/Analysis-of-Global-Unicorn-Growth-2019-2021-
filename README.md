@@ -106,3 +106,24 @@ ORDER BY
   ```
 ## **Results and Key Findings**
 Final Result (Example Query Output):
+| index | industry | year | num_unicorns | average_valuation_billions |
+|---|---|---|---|---|
+| 0 | Fintech | 2021 | 138 | 2.75 |
+| 1 | Internet Software & Services | 2021 | 119 | 2.15 |
+| 2 | E-commerce & D2C | 2021 | 47 | 2.47 |
+| 3 | Internet Software & Services | 2020 | 20 | 4.35 |
+| 4 | E-commerce & D2C | 2020 | 16 | 4.00 |
+| 5 | Fintech | 2020 | 15 | 4.33 |
+| 6 | Fintech | 2019 | 20 | 6.80 |
+| 7 | Internet Software & Services | 2019 | 13 | 4.23 |
+| 8 | E-commerce & D2C | 2019 | 12 | 2.52 |
+
+## **Key Insights:**
+
+- Dramatic Growth Surge (Post-Pandemic): There was a massive increase in the number of unicorns in 2021 (a total of 304 new unicorns from the top 3 industries) compared to 2020 (a total of 51 unicorns). This increase indicates an acceleration of market liquidity and digitalization post-pandemic.
+
+- Fintech Dominates in Quantity: Fintech was the most productive industry in 2021, creating 138 new unicorns, almost 7 times more than in 2020.
+
+- Highest Valuations at the Beginning of the Period: Average valuations tended to be higher in 2019 and 2020 compared to 2021. The highest average valuation was recorded in Fintech 2019 ($6.8 Billion), although the number of unicorns was low (20). This may indicate that in 2021, more companies reached unicorn status with the minimum valuation ($1 Billion), thus lowering the average.
+
+
